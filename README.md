@@ -3,7 +3,7 @@
 This project analyzes over 3 million grocery orders to uncover purchasing patterns and forecast future sales using a combination of **Python**, **SQL**, **Excel**, and **Power BI**. It simulates the work of a Data Analyst at a retail or CPG company aiming to improve inventory planning, marketing promotions, and product bundling strategies.
 
 ---
-
+---
 ## 📌 Project Objectives
 
 This project addresses multiple real-world business problems in retail operations and product strategy:
