@@ -4,7 +4,7 @@ This project analyzes over 3 million grocery orders to uncover purchasing patter
 
 ---
 ---
-## 📌 Project Objectives
+## 📌  Project Objectives
 
 This project addresses multiple real-world business problems in retail operations and product strategy:
 
