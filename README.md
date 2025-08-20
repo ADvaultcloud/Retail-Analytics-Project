@@ -8,7 +8,7 @@ This project analyzes over 3 million grocery orders to uncover purchasing patter
 
 This project addresses multiple real-world business problems in retail operations and product strategy:
 
-### 🎯 1. **Sales Forecasting**
+### 🎯  1. **Sales Forecasting**
 > Predict future sales to improve stock planning and minimize overstock/stockouts.
 
 - ✅ Used **Prophet (Python)** to model seasonality and trends in weekly sales.
